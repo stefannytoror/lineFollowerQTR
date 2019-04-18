@@ -28,7 +28,7 @@
 // last seen by sensor 5 before being lost.
 
 
-#define NUM_SENSORS   7     // number of sensors used
+#define NUM_SENSORS   5     // number of sensors used
 #define TIMEOUT       2500  // waits for 2500 microseconds for sensor outputs to go low
 #define EMITTER_PIN   2     // emitter is controlled by digital pin 2
 
